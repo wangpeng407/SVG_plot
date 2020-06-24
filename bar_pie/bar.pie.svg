@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="600" width="1000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="group_x" style="stroke: black; stroke-width: 2">
+		<line x1="140" x2="140" y1="500" y2="510" />
+		<line x1="100" x2="90" y1="460" y2="460" />
+		<line x1="250" x2="250" y1="500" y2="510" />
+		<line x1="100" x2="90" y1="423" y2="423" />
+		<line x1="360" x2="360" y1="500" y2="510" />
+		<line x1="100" x2="90" y1="386" y2="386" />
+		<line x1="470" x2="470" y1="500" y2="510" />
+		<line x1="100" x2="90" y1="349" y2="349" />
+		<line x1="580" x2="580" y1="500" y2="510" />
+		<line x1="100" x2="90" y1="312" y2="312" />
+		<line x1="690" x2="690" y1="500" y2="510" />
+		<line x1="100" x2="90" y1="275" y2="275" />
+		<line x1="800" x2="800" y1="500" y2="510" />
+		<line x1="100" x2="90" y1="238" y2="238" />
+		<line x1="910" x2="910" y1="500" y2="510" />
+		<line x1="100" x2="90" y1="201" y2="201" />
+		<line x1="100" x2="90" y1="164" y2="164" />
+		<line x1="100" x2="90" y1="127" y2="127" />
+		<line x1="100" x2="90" y1="90" y2="90" />
+		<line x1="100" x2="950" y1="500" y2="500" />
+		<line x1="100" x2="100" y1="500" y2="50" />
+	</g>
+	<g id="group_y" style="stroke: red; stroke-width: 2" />
+	<g id="group_z" style="stroke: black; stroke-opacity: 0.5; stroke-width: 1" />
+	<g id="group_t" style="color: red; font-family: Arial; text-anchor: middle" />
+	<g id="group_c" style="fill: blue; fill-opacity: 0.6; stroke: black; stroke-opacity: 0.3; stroke-width: 5" />
+	<g fill="blue" fill-opacity="0.8" id="group_rct" stroke-opacity="0.3" stroke-width="3">
+		<rect height="77" width="80" x="100" y="423" />
+		<rect height="202.8" width="80" x="210" y="297.2" />
+		<rect height="40" width="80" x="320" y="460" />
+		<rect height="225" width="80" x="430" y="275" />
+		<rect height="262" width="80" x="540" y="238" />
+		<rect height="299" width="80" x="650" y="201" />
+		<rect height="151" width="80" x="760" y="349" />
+		<rect height="410" width="80" x="870" y="90" />
+	</g>
+	<text font-size="20" text-anchor="middle" x="140" y="530">A</text>
+	<text font-size="20" text-anchor="end" x="88" y="470">-0.1</text>
+	<path d="M 140 378 A 0 0 0 0 0 140 378
+					 L 140 338 
+					 A 40 40 0 0 1 162.532802322545 344.95044902736 Z" fill="red" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 140 378 A 0 0 0 0 0 140 378
+					 L 162.532802322545 344.95044902736 
+					 A 40 40 0 0 1 171.273259298721 353.060407925651 Z" fill="blue" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 140 378 A 0 0 0 0 0 140 378
+					 L 171.273259298721 353.060407925651 
+					 A 40 40 0 0 1 157.355349564702 414.038754716097 Z" fill="green" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 140 378 A 0 0 0 0 0 140 378
+					 L 157.355349564702 414.038754716097 
+					 A 40 40 0 0 1 134.038309352953 417.553233049005 Z" fill="pink" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 140 378 A 0 0 0 0 0 140 378
+					 L 134.038309352953 417.553233049005 
+					 A 40 40 0 0 1 140 338 Z" fill="purple" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<text font-size="20" text-anchor="middle" x="250" y="530">B</text>
+	<text font-size="20" text-anchor="end" x="88" y="433">0.0</text>
+	<path d="M 250 252.2 A 0 0 0 0 0 250 252.2
+					 L 250 212.2 
+					 A 40 40 0 0 1 272.532802322545 219.15044902736 Z" fill="red" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 250 252.2 A 0 0 0 0 0 250 252.2
+					 L 272.532802322545 219.15044902736 
+					 A 40 40 0 0 1 281.273259298721 227.260407925651 Z" fill="blue" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 250 252.2 A 0 0 0 0 0 250 252.2
+					 L 281.273259298721 227.260407925651 
+					 A 40 40 0 0 1 267.355349564702 288.238754716097 Z" fill="green" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 250 252.2 A 0 0 0 0 0 250 252.2
+					 L 267.355349564702 288.238754716097 
+					 A 40 40 0 0 1 244.038309352953 291.753233049005 Z" fill="pink" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 250 252.2 A 0 0 0 0 0 250 252.2
+					 L 244.038309352953 291.753233049005 
+					 A 40 40 0 0 1 250 212.2 Z" fill="purple" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<text font-size="20" text-anchor="middle" x="360" y="530">C</text>
+	<text font-size="20" text-anchor="end" x="88" y="396">0.1</text>
+	<path d="M 360 415 A 0 0 0 0 0 360 415
+					 L 360 375 
+					 A 40 40 0 0 1 382.532802322545 381.95044902736 Z" fill="red" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 360 415 A 0 0 0 0 0 360 415
+					 L 382.532802322545 381.95044902736 
+					 A 40 40 0 0 1 391.273259298721 390.060407925651 Z" fill="blue" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 360 415 A 0 0 0 0 0 360 415
+					 L 391.273259298721 390.060407925651 
+					 A 40 40 0 0 1 377.355349564702 451.038754716097 Z" fill="green" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 360 415 A 0 0 0 0 0 360 415
+					 L 377.355349564702 451.038754716097 
+					 A 40 40 0 0 1 354.038309352953 454.553233049005 Z" fill="pink" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 360 415 A 0 0 0 0 0 360 415
+					 L 354.038309352953 454.553233049005 
+					 A 40 40 0 0 1 360 375 Z" fill="purple" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<text font-size="20" text-anchor="middle" x="470" y="530">D</text>
+	<text font-size="20" text-anchor="end" x="88" y="359">0.2</text>
+	<path d="M 470 230 A 0 0 0 0 0 470 230
+					 L 470 190 
+					 A 40 40 0 0 1 492.532802322545 196.95044902736 Z" fill="red" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 470 230 A 0 0 0 0 0 470 230
+					 L 492.532802322545 196.95044902736 
+					 A 40 40 0 0 1 501.273259298721 205.060407925651 Z" fill="blue" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 470 230 A 0 0 0 0 0 470 230
+					 L 501.273259298721 205.060407925651 
+					 A 40 40 0 0 1 487.355349564702 266.038754716097 Z" fill="green" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 470 230 A 0 0 0 0 0 470 230
+					 L 487.355349564702 266.038754716097 
+					 A 40 40 0 0 1 464.038309352953 269.553233049005 Z" fill="pink" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 470 230 A 0 0 0 0 0 470 230
+					 L 464.038309352953 269.553233049005 
+					 A 40 40 0 0 1 470 190 Z" fill="purple" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<text font-size="20" text-anchor="middle" x="580" y="530">E</text>
+	<text font-size="20" text-anchor="end" x="88" y="322">0.3</text>
+	<path d="M 580 193 A 0 0 0 0 0 580 193
+					 L 580 153 
+					 A 40 40 0 0 1 602.532802322545 159.95044902736 Z" fill="red" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 580 193 A 0 0 0 0 0 580 193
+					 L 602.532802322545 159.95044902736 
+					 A 40 40 0 0 1 611.273259298721 168.060407925651 Z" fill="blue" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 580 193 A 0 0 0 0 0 580 193
+					 L 611.273259298721 168.060407925651 
+					 A 40 40 0 0 1 597.355349564702 229.038754716097 Z" fill="green" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 580 193 A 0 0 0 0 0 580 193
+					 L 597.355349564702 229.038754716097 
+					 A 40 40 0 0 1 574.038309352953 232.553233049005 Z" fill="pink" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 580 193 A 0 0 0 0 0 580 193
+					 L 574.038309352953 232.553233049005 
+					 A 40 40 0 0 1 580 153 Z" fill="purple" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<text font-size="20" text-anchor="middle" x="690" y="530">F</text>
+	<text font-size="20" text-anchor="end" x="88" y="285">0.4</text>
+	<path d="M 690 156 A 0 0 0 0 0 690 156
+					 L 690 116 
+					 A 40 40 0 0 1 712.532802322545 122.95044902736 Z" fill="red" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 690 156 A 0 0 0 0 0 690 156
+					 L 712.532802322545 122.95044902736 
+					 A 40 40 0 0 1 721.273259298721 131.060407925651 Z" fill="blue" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 690 156 A 0 0 0 0 0 690 156
+					 L 721.273259298721 131.060407925651 
+					 A 40 40 0 0 1 707.355349564702 192.038754716097 Z" fill="green" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 690 156 A 0 0 0 0 0 690 156
+					 L 707.355349564702 192.038754716097 
+					 A 40 40 0 0 1 684.038309352953 195.553233049005 Z" fill="pink" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 690 156 A 0 0 0 0 0 690 156
+					 L 684.038309352953 195.553233049005 
+					 A 40 40 0 0 1 690 116 Z" fill="purple" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<text font-size="20" text-anchor="middle" x="800" y="530">G</text>
+	<text font-size="20" text-anchor="end" x="88" y="248">0.5</text>
+	<path d="M 800 304 A 0 0 0 0 0 800 304
+					 L 800 264 
+					 A 40 40 0 0 1 822.532802322545 270.95044902736 Z" fill="red" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 800 304 A 0 0 0 0 0 800 304
+					 L 822.532802322545 270.95044902736 
+					 A 40 40 0 0 1 831.273259298721 279.060407925651 Z" fill="blue" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 800 304 A 0 0 0 0 0 800 304
+					 L 831.273259298721 279.060407925651 
+					 A 40 40 0 0 1 817.355349564702 340.038754716097 Z" fill="green" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 800 304 A 0 0 0 0 0 800 304
+					 L 817.355349564702 340.038754716097 
+					 A 40 40 0 0 1 794.038309352953 343.553233049005 Z" fill="pink" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 800 304 A 0 0 0 0 0 800 304
+					 L 794.038309352953 343.553233049005 
+					 A 40 40 0 0 1 800 264 Z" fill="purple" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<text font-size="20" text-anchor="middle" x="910" y="530">H</text>
+	<text font-size="20" text-anchor="end" x="88" y="211">0.6</text>
+	<path d="M 910 45 A 0 0 0 0 0 910 45
+					 L 910 5 
+					 A 40 40 0 0 1 932.532802322545 11.9504490273603 Z" fill="red" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 910 45 A 0 0 0 0 0 910 45
+					 L 932.532802322545 11.9504490273603 
+					 A 40 40 0 0 1 941.273259298721 20.0604079256507 Z" fill="blue" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 910 45 A 0 0 0 0 0 910 45
+					 L 941.273259298721 20.0604079256507 
+					 A 40 40 0 0 1 927.355349564702 81.0387547160967 Z" fill="green" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 910 45 A 0 0 0 0 0 910 45
+					 L 927.355349564702 81.0387547160967 
+					 A 40 40 0 0 1 904.038309352953 84.5532330490051 Z" fill="pink" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<path d="M 910 45 A 0 0 0 0 0 910 45
+					 L 904.038309352953 84.5532330490051 
+					 A 40 40 0 0 1 910 5 Z" fill="purple" fill-opacity="1" stroke="black" stroke-opacity="1" stroke-width="2" />
+	<text font-size="20" text-anchor="end" x="88" y="174">0.7</text>
+	<text font-size="20" text-anchor="end" x="88" y="137">0.8</text>
+	<text font-size="20" text-anchor="end" x="88" y="100">0.9</text>
+	<text font-size="20" text-anchor="middle" transform="rotate(0, 525, 560)" x="525" y="560">x_lable</text>
+	<text font-size="20" text-anchor="middle" transform="rotate(-90, 50, 275)" x="50" y="275">y_lable</text>
+	<!--
+	Generated using the Perl SVG Module V2.84
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+	-->
+</svg>
